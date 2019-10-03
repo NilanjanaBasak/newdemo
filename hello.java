@@ -3,3 +3,7 @@ public class hello{
 		System.out.println("Hello java");
 	}
 }
+
+public static int sqr(int x){
+	return x*x;
+}
